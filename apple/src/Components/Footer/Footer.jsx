@@ -6,7 +6,7 @@ import "./custom.js";
 const Footer = () => {
   return (
     <footer className={styles["footer-wrapper"]}>
-      <div className={styles.container}>
+      <div className={styles["container-fluid"]}>
         {/* Upper Text Section */}
         <div className={styles["upper-text-container"]}>
           <p>
